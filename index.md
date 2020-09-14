@@ -92,6 +92,7 @@
 - Delhi riots
 - Hong Kong riots
 - Chile protests
+- Black Lives Matter Movement
 - Deadly China-India border dispute
 - Greatest stock market crash since the 1999-2002 Great Recession
     - Worst economic downturn in all continents.
