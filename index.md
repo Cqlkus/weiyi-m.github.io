@@ -2,6 +2,7 @@
 
 **Natural disasters and incidents**
 - Australian bushfires
+- California fires
 - Australian floods
 - South African floods
 - Indonesia floods
